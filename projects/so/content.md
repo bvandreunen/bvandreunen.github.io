@@ -10,7 +10,15 @@ Een maand geleden stuurden we jullie een enquête toe. Wereldwijd groeien de oud
 Wij - ouders van kinderen hier op school - waren nieuwsgierig hoe andere ouders per klas over dit onderwerp denken. Dank voor het invullen van de enquête! We hebben van veel van jullie, 220 mensen, een reactie gekregen. Dat komt met 600 kinderen op school neer op een flink aantal van de ouders, en we kunnen ook zien dat vanuit alle jaarlagen ouders hebben gereageerd. Dit aantal deelnemers maakt het een onderzoek dat we representatief kunnen noemen voor het totale aantal ouders van onze school. Graag delen we de uitkomsten met jullie in dit bericht.
  
 ## Belangrijkste resultaten
-93,2% van iedereen die meedeed aan de enquête geeft aan zich zorgen of zeer veel zorgen te maken over de risico’s van smartphonegebruik bij kinderen in de basisschoolleeftijd. De belangrijkste redenen die jullie daarvoor noemen zijn sociale druk of pesten (19,2%), direct gevolgd door negatieve invloed op sociale en cognitieve ontwikkeling (18,7%), verslavingsrisico (16,8%) en ongepaste content (15,3%).
+Meer dan 93% van iedereen die meedeed aan de enquête geeft aan zich zorgen of zeer veel zorgen te maken over de risico's van smartphonegebruik bij kinderen in de basisschoolleeftijd. De redenen die jullie daarvoor noemen zijn:
+
+* Sociale druk of pesten → 87% (179 keer gekozen)
+* Negatieve invloed op sociale en cognitieve ontwikkeling → 85% (174 keer gekozen)
+* Verslavingsrisico → 77% (157 keer gekozen)
+* Ongepaste content (geweld, seks, etc.) → 70% (143 keer gekozen)
+* Verminderde concentratie en schoolprestaties → 56% (114 keer gekozen)
+* Lichamelijke klachten (bijv. ogen, houding, RSI) → 46% (94 keer gekozen)
+* Slaapproblemen → 32% (65 keer gekozen)
 
 ## Welke leeftijd is passend?
 Vervolgens vroegen we welke leeftijd jullie passend vinden voor een smartphone voor je kind. 68% van de ouders zeggen: vanaf brugklasleeftijd of nog later. En 25% zegt bij 11-12 jaar, groep 8. En dan is er een groep van 6% die leeftijden van 9 tot 10 jaar passend vindt. De overige kleine groep weet het niet.
