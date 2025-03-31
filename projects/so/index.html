@@ -6,89 +6,15 @@
     <meta name="robots" content="noindex, nofollow">
 
     <title>Uitkomsten enquête: smartphonegebruik op Ter Cleeff</title>
-    <style>
-        body {
-            font-family: sans-serif;
-            line-height: 1.6;
-            padding: 2rem 2rem 3rem;
-            background: #f5f5f5;
-            color: #333;
-        }
-        a {
-            color: #0077cc;
-        }
-        pre code {
-            font-size: 0.85rem;
-            color: #999;
-            font-family: sans-serif;
-        }
-        h1 {
-            font-size: 2em;
-            line-height: 1.6;
-        }
-        h2 {
-            font-size: 1.25em;
-        }
-        h3 {
-            font-size: 1em;
-        }
-        #content {
-            max-width: 840px;
-            margin: auto;
-            background: white;
-            padding: 0.5rem 2rem 1rem;
-            border-radius: 8px;
-            box-shadow: 0 0 8px rgba(0,0,0,0.05);
-        }
 
-        blockquote {
-            border-left: solid 3px #e1e1e1;
-            padding-left: 1em;
-        }
+    <link rel="stylesheet" href="/assets/style.css">
 
-        @media (max-width: 480px) {
-            body {
-                padding: 0.5rem;
-                background: #fff;
-                font-size: 0.9rem;
-            }
-            h1 {
-                font-size: 1.75em;
-                line-height: 1.5;
-            }
-            #content {
-                padding: 0;
-                max-width: 100%;
-                box-shadow: none;
-            }
-            blockquote {
-                margin-left: 0.5em;
-            }
-        }
-    </style>
+    <script src="/assets/marked.min.js"></script>
+    <script src="/assets/load-content.js"></script>
 </head>
 <body>
 
-<div id="content">Laden...</div>
-
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
-<script>
-    fetch('content.md')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Markdown bestand kon niet worden geladen.');
-            }
-            return response.text();
-        })
-        .then(markdown => {
-            const html = marked.parse(markdown);
-            document.getElementById('content').innerHTML = html;
-        })
-        .catch(error => {
-            document.getElementById('content').innerHTML = `<p style="color:red;">${error.message}</p>`;
-        });
-</script>
+<div data-content="/projects/so/content.md" id="content">Laden...</div>
 
 </body>
 </html>
