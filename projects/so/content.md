@@ -20,11 +20,11 @@ We hebben het ook gehad over de ideeën die jullie hebben bij wat kan helpen om 
 
 Dit gaven jullie aan:
 
-* Duidelijke richtlijnen vanuit de school → 36% (167 keer gekozen)
-* Een bijeenkomst of overlegmoment met ouders → 18% (83 keer gekozen)
-* Een schoolbrede bijeenkomst of workshop met experts → 18% (82 keer gekozen)
-* Een (online) informatiepakket over veilig smartphonegebruik → 14% (65 keer gekozen)
-* Een manier om afspraken vast te leggen (bijvoorbeeld via een online formulier) → 11% (52 keer gekozen)
+* Duidelijke richtlijnen vanuit de school → 77% (169 keer gekozen)
+* Een bijeenkomst of overlegmoment met ouders → 38% (83 keer gekozen)
+* Een schoolbrede bijeenkomst of workshop met experts → 38% (83 keer gekozen)
+* Een (online) informatiepakket over veilig smartphonegebruik → 30% (65 keer gekozen)
+* Een manier om afspraken vast te leggen (bijvoorbeeld via een online formulier) → 25% (54 keer gekozen)
 
 Er kwamen ook wat extra suggesties. Bijvoorbeeld over onderwijs, en met name onderwijs over negatieve aspecten, dat er meer mag zijn: 
 
@@ -33,7 +33,8 @@ Er kwamen ook wat extra suggesties. Bijvoorbeeld over onderwijs, en met name ond
 > _“Lessen op school over de negatieve aspecten (kijkgedrag, impact op concentratie, etc.).”_
  
 ## Tips en opmerkingen
-Tot slot vroegen we jullie om tips en opmerkingen. Daar kwamen een paar belangrijke punten uit: 
+Tot slot vroegen we jullie om tips en opmerkingen. Daar kwamen een paar belangrijke punten uit:
+
 1. **Gezamenlijke afspraken onder ouders** – Veel ouders willen gezamenlijke richtlijnen en afspraken maken over smartphonegebruik buiten schooltijd. Dit zou kunnen in de vorm van oudergroepen of gemeenschappelijke richtlijnen.
 
     > _“Belangrijk lijkt me dat er een algemene afspraak komt. Sociale druk is groot, als enige je kind geen tel geven, is ook lastig. Fijn dat hier een lijn in wordt getrokken.”_
