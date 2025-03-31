@@ -20,10 +20,10 @@ Meer dan 93% van iedereen die meedeed aan de enquête geeft aan zich zorgen of z
 * Lichamelijke klachten (bijv. ogen, houding, RSI) → 46% (94 keer gekozen)
 * Slaapproblemen → 32% (65 keer gekozen)
 
-## Welke leeftijd is passend?
+### Welke leeftijd is passend?
 Vervolgens vroegen we welke leeftijd jullie passend vinden voor een smartphone voor je kind. 68% van de ouders zeggen: vanaf brugklasleeftijd of nog later. En 25% zegt bij 11-12 jaar, groep 8. En dan is er een groep van 6% die leeftijden van 9 tot 10 jaar passend vindt. De overige kleine groep weet het niet.
 
-## Het gesprek op school
+### Het gesprek op school
 We hebben het ook gehad over de ideeën die jullie hebben bij wat kan helpen om in je eigen klas een goed gesprek te voeren en/of tot afspraken te komen over smartphone vrij opgroeien – binnen en buiten de klas. 
 
 Dit gaven jullie aan:
